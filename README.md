@@ -319,11 +319,10 @@ http://localhost:8080/swagger-ui.html
 
 ## 👨‍💻 Tác giả
 
-**[Nguyen Ngoc Bao]**
+**[Do Tien Hung]**
 
-- 📧 Email: baoga271104@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/2impaoo](https://linkedin.com/in/2impaoo)
-- 🐙 GitHub: [@2impaoo-it](https://github.com/2impaoo-it)
+- 📧 Email: tienhung1624@gmail.com
+- 🐙 GitHub: [@TiesnHunk](https://github.com/TiesnHunk)
 
 ---
 
